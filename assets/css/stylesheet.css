@@ -43,10 +43,11 @@ body {
 }
 
 .top-nav {
+	display: inline-block;
 	color: #777777;
 	position: relative;
-	left: 70%;
-	top: -70px;
+	z-index: 5;
+	margin-left: 40%;
 
 }
 
